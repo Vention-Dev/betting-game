@@ -11,7 +11,7 @@ the opponent's ships.
 
 Step 1: Download/clone.
 ```
-git clone https://github.com/inf123/NodeBattleship
+git clone https://github.com/VentionssDevs/battleship_game.git
 ```
 Step 2: Install dependencies.
 ```
