@@ -5,8 +5,6 @@ At the start of the game, five ships of different sizes are placed randomly in a
 The players then take turns firing shots at the opponent's grid until one player has sunk all of
 the opponent's ships.
 
-![Battleship screenshot](http://inf123.github.io/battleship-screenshot.png)
-
 ## Install
 
 Step 1: Download/clone.
